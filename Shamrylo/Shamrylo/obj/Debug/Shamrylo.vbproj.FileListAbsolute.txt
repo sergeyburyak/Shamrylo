@@ -1,0 +1,7 @@
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\bin\Debug\Shamrylo.exe
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\bin\Debug\Shamrylo.pdb
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\obj\Debug\Shamrylo.vbprojResolveAssemblyReference.cache
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\obj\Debug\Shamrylo.MainForm.resources
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\obj\Debug\Shamrylo.vbproj.GenerateResource.Cache
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\obj\Debug\Shamrylo.exe
+C:\Users\buryaksergey\Documents\SharpDevelop Projects\Shamrylo\Shamrylo\obj\Debug\Shamrylo.pdb
